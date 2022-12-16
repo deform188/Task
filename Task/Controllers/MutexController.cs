@@ -19,7 +19,7 @@ namespace Task.Controllers
                 { 
                 
                     //Some work with peek
-                    Thread.Sleep(10000);
+                    Thread.Sleep(5000);
                 }
             });
         }
